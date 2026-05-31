@@ -7,6 +7,8 @@ This project presents a comparative machine learning analysis of urban crime ris
 
 Rather than reactive safety systems, this research explores how data-driven prediction can complement existing university safety tools by enabling earlier risk awareness.
 
+<img width="1536" height="1024" alt="Urbancrime" src="https://github.com/user-attachments/assets/7f933a30-108c-42f8-b015-8b143c08b2df" />
+
 ##✨ Key Features
 -Logistic Regression, Random Forest, and Gradient Boosting <br/>
 -Borough-level, temporal crime risk modelling using official London crime data <br/>
